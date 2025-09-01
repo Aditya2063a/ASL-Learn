@@ -237,12 +237,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **UI Framework**: Tailwind CSS for responsive design
 - **ASL Resources**: Educational content sourced from ASL learning materials
 
-## 🆘 Support & Contact
-
-- **Email**: support@asllearn.com
-- **Location**: New Delhi, India
-- **Issues**: Please report bugs or feature requests via GitHub Issues
-
 ## 🔮 Future Enhancements
 
 - [ ] Support for dynamic signs (J and Z)
